@@ -8,8 +8,7 @@ The system model is shown below.
 
 ![PriBSCS system model](docs/system-model.png)
 
-Main documentation has been moved to:
-- English + 中文: `docs/README.md`
+Detailed documentation (English + 中文): `docs/README.md`
 
 ## Quick Links
 
@@ -41,8 +40,7 @@ python plot.py
 
 ![PriBSCS system model](docs/system-model.png)
 
-主要说明文档已迁移至：
-- 英文 + 中文：`docs/README.md`
+详细文档（英文 + 中文）：`docs/README.md`
 
 ## Citation
 
