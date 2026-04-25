@@ -1,0 +1,10 @@
+Setting,P_cap_kW,rho,Iterations_to_stop,Averaged_Profit_CNY,Final_Primal_Residual,Convergence_Behavior,Total_Runtime_s
+N=4,70.0,1.0,>200,2147.9762,3.87979381,slow residual decay,303.3089
+N=4,70.0,5.0,>200,2177.2815,10.40436447,slow residual decay,298.4046
+N=4,70.0,10.0,>200,2151.3632,2.81510213,slow residual decay,303.1349
+N=4,70.0,20.0,>200,2160.453,2.01618452,slow residual decay,305.7143
+N=4,70.0,40.0,>200,2160.453,2.74681634,slow residual decay,307.2522
+N=20,400.0,0.1,>200,11178.8097,82.03229364,slow residual decay,313.8893
+N=20,400.0,0.5,>200,11230.1852,12.9614814,slow residual decay,309.2388
+N=20,400.0,1.0,>200,11159.0187,14.33317829,slow residual decay,301.3246
+N=20,400.0,2.0,>200,11184.8477,12.9614814,slow residual decay,310.4707

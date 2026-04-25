@@ -1,0 +1,28 @@
+# Ignore everything by default.
+*
+
+# Keep Git metadata and this ignore file.
+!.gitignore
+
+# Keep core source files for open-source release.
+!run.py
+!sensitivity.py
+!plot.py
+!requirements.txt
+!README.md
+!docs/
+!docs/**
+
+# Keep experiment outputs.
+!data_results/
+!data_results/**
+!figures/
+!figures/**
+
+# Exclude common local/runtime artifacts.
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
