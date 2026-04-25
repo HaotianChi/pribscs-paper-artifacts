@@ -43,3 +43,31 @@ python plot.py
 
 主要说明文档已迁移至：
 - 英文 + 中文：`docs/README.md`
+
+## Citation
+
+If this codebase is useful in your research, citing the following paper is appreciated:
+
+```bibtex
+@article{chi2026pribscs,
+  title={PriBSCS: privacy-preserving distributed coordination for battery swapping and charging systems},
+  author={Chi, Haotian and Zuo, Fei and Sun, Zhuocheng and Geng, Haijun and Wang, Yuwei and Jiang, Shunrong},
+  journal={Journal of King Saud University Computer and Information Sciences},
+  year={2026},
+  doi={10.1007/s44443-026-00761-z}
+}
+```
+
+## 引用
+
+如果本代码仓库对你的研究有帮助，欢迎引用以下论文：
+
+```bibtex
+@article{chi2026pribscs,
+  title={PriBSCS: privacy-preserving distributed coordination for battery swapping and charging systems},
+  author={Chi, Haotian and Zuo, Fei and Sun, Zhuocheng and Geng, Haijun and Wang, Yuwei and Jiang, Shunrong},
+  journal={Journal of King Saud University Computer and Information Sciences},
+  year={2026},
+  doi={10.1007/s44443-026-00761-z}
+}
+```
